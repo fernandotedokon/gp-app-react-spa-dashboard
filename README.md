@@ -1,0 +1,2 @@
+# gp-app-react-spa-dashboard
+Projeto aplicação SPA, utilizando React sendo gerado Painel Dashboard. Nesse projeto será criado uma Single Page Application com React. Para isso, usaremos como cenário um Dashboard, utilizando aqui conceitos fundamentais como componentes e rotas,  além de como consumir um Web Service RESTful, utilizando a Fetch API do JavaScript. E para estilizar visualmente e dar a interface a caracteristica de responsividade, será utilizado o Bootstrap 4.
